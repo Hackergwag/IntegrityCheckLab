@@ -3,7 +3,7 @@
  ### [Video Tutorials Explaining Integrity Check In Details](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consist of a powershell script and kali linux terminal script that walks the user through an integrity check and this utility will allow you to check the integrity of a downloaded file in comparision with the vendors checksum which could be in sha256, md5. The powershell script and kali linux script are used to run the integrity check on a vlc product in accordance to the vlc vendors checksum.
 <br />
 
 
