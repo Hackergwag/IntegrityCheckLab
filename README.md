@@ -46,8 +46,8 @@ Vlc Vendors Checksum Sha256 For Kali:  <br/>
 <img src="https://imgur.com/6Z2jy8Q.png" height="80%" width="80%" alt="Integrity Check Steps"/>
 <br />
 <br />
-Observe the wiped dis:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Final Comparision of Vlc Sha256 Checksum Before Installation:  <br/>
+<img src="https://imgur.com/UVJ7tff.png" height="80%" width="80%" alt="Integrity Check Steps"/>
 </p>
 
 <!--
