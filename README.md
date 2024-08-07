@@ -19,30 +19,34 @@ The project comprises a PowerShell script and a Kali Linux terminal script desig
 
 <p align="center">
 Powershell Startup: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://imgur.com/zG2sqHz.png height="80%" width="80%" alt="Integrity Check Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Vlc Vendors Checksum Sha256 For Windows:  <br/>
+<img src="https://imgur.com/kHFD6kX.png" height="80%" width="80%" alt="Integrity Check Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Powershell Integrity Check: <br/>
+<img src="https://imgur.com/vXHxXDB.png" height="80%" width="80%" alt="Integrity Check Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Comparision Before Installation:  <br/>
+<img src="https://imgur.com/CIT8XsN.png" height="80%" width="80%" alt="Integrity Check Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Kali Linux Terminal Startup:  <br/>
+<img src="https://imgur.com/tQcOv9F.png" height="80%" width="80%" alt="Integrity Check Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Vlc Vendors Checksum Sha256 For Kali:  <br/>
+<img src="https://imgur.com/GeEanqk.png" height="80%" width="80%" alt="Integrity Check Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+ Kali Linux Terminal Checksum Comparision Sha256 Md5 Sha1:  <br/>
+<img src="https://imgur.com/6Z2jy8Q.png" height="80%" width="80%" alt="Integrity Check Steps"/>
+<br />
+<br />
+Observe the wiped dis:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
