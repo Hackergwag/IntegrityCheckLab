@@ -3,23 +3,22 @@
  ### [Video Tutorials Explaining Integrity Check In Details](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consist of a powershell script and kali linux terminal script that walks the user through an integrity check and this utility will allow you to check the integrity of a downloaded file in comparision with the vendors checksum which could be in sha256, md5. The powershell script and kali linux script are used to run the integrity check on a vlc product in accordance to the vlc vendors checksum.
+The project comprises a PowerShell script and a Kali Linux terminal script designed to guide users through an integrity check process. This utility enables users to verify the integrity of a downloaded file by comparing it with the vendor's checksum, which may be in SHA-256 or MD5 formats. The scripts are specifically used to run integrity checks on a VLC product, ensuring alignment with the VLC vendor's checksum for accurate verification.
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Kali Linux Terminal</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Powershell Startup: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
