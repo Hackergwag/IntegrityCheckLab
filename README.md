@@ -1,6 +1,6 @@
 <h1>Integrity Check Trough Vendors Checksum</h1>
 
- ### [Video Tutorials Explaining Integrity Check In Details](https://youtu.be/7eJexJVCqJo)
+ ### [Video Tutorials Explaining Integrity Check In Details](https://www.mediafire.com/file/5c43622io2ce12k/CNRV8748.MOV/file)
 
 <h2>Description</h2>
 The project comprises a PowerShell script and a Kali Linux terminal script designed to guide users through an integrity check process. This utility enables users to verify the integrity of a downloaded file by comparing it with the vendor's checksum, which may be in SHA-256 or MD5 formats. The scripts are specifically used to run integrity checks on a VLC product, ensuring alignment with the VLC vendor's checksum for accurate verification.
